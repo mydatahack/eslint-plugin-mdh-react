@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/mydatahack/eslint-plugin-mdh-react/compare/v1.0.2...v1.0.3) (2022-10-18)
+
+
+### Bug Fixes
+
+* **index:** update import in index file ([dfe5511](https://github.com/mydatahack/eslint-plugin-mdh-react/commit/dfe5511f3ed35d0e6f0a893b892df37db3af77b6))
+
 ## [1.0.2](https://github.com/mydatahack/eslint-plugin-mdh-react/compare/v1.0.1...v1.0.2) (2022-10-18)
 
 
