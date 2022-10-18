@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/mydatahack/eslint-plugin-mdh-react/compare/v1.0.1...v1.0.2) (2022-10-18)
+
+
+### Bug Fixes
+
+* **rules:** removed styled component naming rule ([d11932e](https://github.com/mydatahack/eslint-plugin-mdh-react/commit/d11932e969e49cfc55705c88263aa7f2afa60e62))
+
 ## [1.0.1](https://github.com/mydatahack/eslint-plugin-mdh-react/compare/v1.0.0...v1.0.1) (2022-08-11)
 
 # 1.0.0 (2022-08-11)
