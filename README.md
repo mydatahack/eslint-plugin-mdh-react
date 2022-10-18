@@ -13,7 +13,6 @@ module.exports = {
     'eslint-plugin-mdh-react/ban-parse-float': 2,
     'eslint-plugin-mdh-react/force-typed-api-requests': 2,
     'eslint-plugin-mdh-react/ban-raw-apollo-use-subscription': 2,
-    'eslint-plugin-mdh-react/styled-components-naming': 2,
     ...
   }
 }
